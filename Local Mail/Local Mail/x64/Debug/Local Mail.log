@@ -1,0 +1,12 @@
+﻿  Local Mail.cpp
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(227,5): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(228,5): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(241,9): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(262,13): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(284,5): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(284,29): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(298,13): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(319,12): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(356,5): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(356,29): error C3861: "getline": identyfikatora nie odnaleziono
+C:\Users\admin\Desktop\Local Mail\Local Mail\Local Mail.cpp(359,5): error C3861: "getline": identyfikatora nie odnaleziono
