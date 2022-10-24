@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 #include<fstream>                   //file handling
 #include<stdlib.h>                  //system("cls");
-#include<string.h>
+#include<string>
 #include <stdio.h>                  //remove    //rename
 
 using namespace std;
